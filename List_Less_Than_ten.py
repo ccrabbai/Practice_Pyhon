@@ -6,7 +6,7 @@ for i in a:
         New_List.append(i)
 print(New_List)
 
-#Ask the user for a number and return a (http://katcr.to/search/the%20complete%20hacking%20course%20go%20from%20beginner%20to%20advanced/)
+#Ask the user for a number and return a 
 #list that contains only elements from the original
 #list a that are smaller than that number given by the user.
 num = int(input("Enter any number: "))
